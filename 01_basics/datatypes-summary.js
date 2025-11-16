@@ -66,3 +66,6 @@ const myFunction = function(){
        Object  =>  object
 
 */
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Stack (Primitive), Heap (Non-Primitive) memmory allocation 
